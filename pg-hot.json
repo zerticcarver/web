@@ -1,0 +1,18 @@
+[
+  {
+    "family_name": "Bonus Voucher (3hr-masked)",
+    "family_code": "10b199d9-b0c4-4b58-9bb7-798b8a13a2f2",
+    "is_enterprise": true,
+    "variant_name": "Bonus Voucher (3hr-masked)",
+    "option_name": "Facebook 1GB, 3hr - Rp 0",
+    "order": 1
+  },
+  {
+    "family_name": "Unlimited Turbo",
+    "family_code": "08a3b1e6-8e78-4e45-a540-b40f06871cfe",
+    "is_enterprise": false,
+    "variant_name": "For Xtra Combo",
+    "option_name": "TikTok",
+    "order": 6
+  }
+]
