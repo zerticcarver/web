@@ -2,7 +2,7 @@
   {
     "family_name": "Bonus Voucher (3hr-masked)",
     "family_code": "10b199d9-b0c4-4b58-9bb7-798b8a13a2f2",
-    "is_enterprise": true,
+    "is_enterprise": false,
     "variant_name": "Bonus Voucher (3hr-masked)",
     "option_name": "Facebook 1GB, 3hr - Rp 0",
     "order": 1
